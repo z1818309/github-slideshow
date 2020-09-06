@@ -1,8 +1,8 @@
 ---
 layout: slide
-title: “Updates and Security Measures”
+title: “Updates Security Measures”
 ---
-*   Search engines regularly update their algorithms (often on a monthly or quarterly basis); these updates can be considered “software patches” to the algorithm.
+*   Algorithms are regularly updated on search engines. (Monthly or Quarterly Basis)
 
-*   Search engine updates are applied selectively across regions and languages, making it difficult to reverse engineer or decode by spammers and black-hat SEO's
+*   The updates are applied selectively across regions and languages, making it difficult to reverse engineer or decode by spammers and black-hat SEO's
 
