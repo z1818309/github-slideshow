@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: “Updates Security Measures”
+title: “Updates and Security Measures”
 ---
 *   Algorithms are regularly updated on search engines. (Monthly or Quarterly Basis)
 
