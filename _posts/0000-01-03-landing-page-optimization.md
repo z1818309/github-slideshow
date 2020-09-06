@@ -1,8 +1,7 @@
 ---
 layout: slide
-title: “Landing Page Optimizations"
+title: “Elements to Include"
 ---
-Landing Page should include the following elements:
   * Value Propositions
   * Calls to Action
   * Demographics
