@@ -1,6 +1,9 @@
 ---
 layout: slide
-title: “Google Pagerank”
+title: “2004 - Facebook”
 ---
-* Algorithm invented to improve search results. It ranks web pages based on link votes and then displays them in the search result based on relevance.
-* Fun Fact: PageRank was named after Larry Page, one of the founders of Google.
+*   Launched by Mark Zuckerberg
+*   Initially exclusive to Harvard students then became available to the public in 2006
+*   One of the most controversial websites in history:
+    *   Alleged stolen idea from Tyler and Cameron Winklevoss
+    *   Privacy concerns where user data was extracted from third party websites without consent
