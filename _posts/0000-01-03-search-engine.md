@@ -1,7 +1,8 @@
 ---
 layout: slide
-title: “Search Engine"
+title: “2002 - Friendster"
 ---
-*   Define relevance by using classification and weighting elements within the search dataset (search index).
-
-*   Also an early application of document classification and the core algorithmic methods applied to Web documents gathered by Google from the World Wide Web, internal documents, and file types gathered within organizations (Intranet)
+*   Next to gain mainstream success
+*   Launched by Johnathan Abrams and Peter Chin
+*   It showed how users were connected to strangers through friends making introductions possible
+*   However, due to the inability to scale the service at the same rate as demand the site encountered many hiccups frustrated users moved on to their rival MySpace
