@@ -7,4 +7,4 @@ title: "2005"
     *   Video-sharing site that allowed users to view, update and share content
 *   Bebo
     *   Drew attention to users with its widget-style profile editor which was easy navigate
-    *   Sold to AOL for 850 million in 2008 but due to its inability to compete with Facebook it was resold for less than 10 million in 2010
+    *   Sold to AOL for 850 million in 2008 - one of the worst deals in the dotcom era
