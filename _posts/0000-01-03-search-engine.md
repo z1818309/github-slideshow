@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: “2002 - Friendster"
+title: “2002 - Friendster”
 ---
 *   Next to gain mainstream success
 *   Launched by Johnathan Abrams and Peter Chin
