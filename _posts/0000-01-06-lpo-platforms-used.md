@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: “2005 - Youtube & Bebo”
+title: 2005 - Youtube & Bebo
 ---
 *   Youtube
     *   Created by Paypal employees
