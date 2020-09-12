@@ -1,6 +1,8 @@
 ---
 layout: slide
-title: “Google Search Engine”
+title: “2003 - LinkedIn”
 ---
-*   Runs several hundred algorithms in a single instance globally. 
-*   The algorithms in different regions have elements unique to their region because language and lexicons are different across regions or at the local city level.
+*   Brought social media to the professional arena
+*   Founded by Reid Hoffman, Allen Blue, Konstantin Guericke, Eric Ly and Jean-Luc Vaillant
+*   Began as a place to post resumes and evolved to become a business networking site
+*   It's growth continued by adding new features such as hiring solutions for companies
